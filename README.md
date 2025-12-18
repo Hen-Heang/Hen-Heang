@@ -3,20 +3,24 @@
 <p align="center">
   Full-Stack Developer · Backend Focused
 </p>
-
 <p align="center">
   <a href="https://github.com/Hen-Heang">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="34" />
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+      width="32"
+      style="background-color:white; padding:5; border-radius:8;"
+    />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/hen-heang">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="34" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:henheang15@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="34" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32"/>
   </a>
 </p>
+
 
 
 ---
@@ -71,13 +75,35 @@ and building maintainable enterprise-style systems.
 
 ### 🛠 Tools & Environment
 <p align="left">
+
+  <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/>
+
+  <!-- GitHub (white background) -->
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+    width="36"
+    style="background-color:white; padding:6; border-radius:10;"
+  />
+
+  <!-- IntelliJ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="48"/>
+
+  <!-- Eclipse -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="48"/>
+
+  <!-- Postman -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48"/>
-  <img src="https://cdn.simpleicons.org/dbeaver/372923" width="48"/>
+
+  <!-- DBeaver (white background) -->
+  <img 
+    src="https://cdn.simpleicons.org/dbeaver/372923"
+    width="36"
+    style="background-color:white; padding:6; border-radius:10;"
+  />
+
 </p>
+
 
 
 - IntelliJ IDEA & Eclipse (Spring / MyBatis)
