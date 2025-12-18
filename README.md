@@ -9,8 +9,8 @@
     <img src="https://cdn.simpleicons.org/github/ffffff" width="34"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/hen-heang">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="34"/>
+ <a href="https://www.linkedin.com/in/hen-heang">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="34" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:henheang15@gmail.com">
