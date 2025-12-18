@@ -1,27 +1,29 @@
 <h1 align="center">Hi 👋, I'm HEN HEANG</h1>
+<p align="center">Full-Stack Developer · Backend Focused</p>
 
-<p align="center">
-  Full-Stack Developer · Backend Focused
-</p>
-<p align="center">
-  <a href="https://github.com/Hen-Heang">
-    <img 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-      width="32"
-      style="background-color:white; padding:5; border-radius:8;"
-    />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/hen-heang">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:henheang15@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32"/>
-  </a>
-</p>
-
-
+<table align="center">
+  <tr>
+    <td align="center" width="60">
+      <a href="https://github.com/Hen-Heang" title="GitHub">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+             width="34" height="34"
+             style="background:#ffffff; padding:6px; border-radius:10px;" />
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://www.linkedin.com/in/hen-heang" title="LinkedIn">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+             width="40" height="40" />
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="mailto:henheang15@gmail.com" title="Gmail">
+        <img src="https://cdn.simpleicons.org/gmail/EA4335"
+             width="40" height="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -38,8 +40,8 @@ and building maintainable enterprise-style systems.
 
 ### 🚀 Backend
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48"/>
 </p>
 
 - Java, Spring Boot, Spring Security (JWT)
@@ -50,7 +52,7 @@ and building maintainable enterprise-style systems.
 
 ### 🗄 Database
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48"/>
 </p>
 
 - PostgreSQL (main database)
@@ -60,12 +62,12 @@ and building maintainable enterprise-style systems.
 
 ### 🎨 Frontend
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48"/>
 </p>
 
 - Next.js + TypeScript (modern frontend)
@@ -74,38 +76,27 @@ and building maintainable enterprise-style systems.
 ---
 
 ### 🛠 Tools & Environment
-<p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/>
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36"
-    style="background-color:white; padding:6; border-radius:10;"
-  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+       width="34" height="34"
+       style="background:#ffffff; padding:7px; border-radius:12px;" />
 
-  <!-- IntelliJ -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48"/>
 
-  <!-- Eclipse -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="48"/>
-
-  <!-- Postman -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48"/>
-
-  <!-- DBeaver (white background) -->
-  <img 
-    src="https://cdn.simpleicons.org/dbeaver/372923"
-    width="36"
-    style="background-color:white; padding:6; border-radius:10;"
-  />
-
+  <img src="https://cdn.simpleicons.org/dbeaver/372923"
+       width="34" height="34"
+       style="background:#ffffff; padding:7px; border-radius:12px;" />
 </p>
-
-
 
 - IntelliJ IDEA & Eclipse (Spring / MyBatis)
 - Git & GitHub for version control
 - Postman for API testing
 - DBeaver for database management
+
 ---
 
 ## 📫 Contact
