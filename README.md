@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm HEN HEANG</h1>
+<p align="center">
+  Software Engineer • Backend & Full-Stack • Spring Boot / MyBatis / Next.js
+</p>
 
-<!--
-**Hen-Heang/Hen-Heang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+I am a Software Engineer working in South Korea, focused on backend and full-stack development.  
+I build scalable systems using **Java, Spring Boot, MyBatis**, and **PostgreSQL**, and modern frontends with **Next.js and TypeScript**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tech Stack
+**Backend**
+- Java, Spring Boot, Spring Security (JWT)
+- MyBatis, REST APIs
+
+**Database**
+- PostgreSQL, MySQL
+
+**Frontend**
+- Next.js, TypeScript, React
+- HTML, CSS, JavaScript, jQuery, Bootstrap
+
+**Tools**
+- Git, GitHub, IntelliJ, Eclipse, Postman
+
+---
+
+## 🚀 Current Focus
+- Spring Security & JWT authentication flow
+- Clean API design and error handling
+- Building B2B systems (DRMS)
+
+---
+
+## 📌 Projects
+### DRMS — Distributor & Retailer Management System
+- Spring Boot + MyBatis + JWT authentication
+- B2B backend APIs (Distributor / Retailer flows)
+
+### Warehouse Master
+- Backend CRUD + security foundation
+- Evolved into DRMS
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: https://www.linkedin.com/in/hen-heang
+- Email: your-email@example.com
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
