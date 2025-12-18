@@ -6,76 +6,96 @@
 
 <p align="center">
   <a href="https://github.com/Hen-Heang">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32"/>
   </a>
   <a href="https://www.linkedin.com/in/hen-heang">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:henheang15@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
   </a>
 </p>
-
 
 ---
 
 ## 👨‍💻 About Me
-Software Engineer based in **South Korea**, focused on **backend and full-stack development**.  
-I build scalable and maintainable systems using **Java, Spring Boot, MyBatis**, and **PostgreSQL**,  
-with modern frontends using **Next.js and TypeScript**.
+Software Engineer based in **South Korea**, focused on **backend and full-stack development**.
 
-I care about clean architecture, readable code, and long-term maintainability.
+I mainly work with **Java, Spring Boot, MyBatis, and PostgreSQL**, and build modern frontends using  
+**Next.js and TypeScript**. I enjoy understanding system flow deeply, designing clean APIs,  
+and building maintainable enterprise-style systems.
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Languages & Tools
 
 ### 🚀 Backend
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48"/>
 </p>
+
+- Java, Spring Boot, Spring Security (JWT)
+- MyBatis, REST API design
+- B2B / enterprise backend systems
 
 ---
 
 ### 🗄 Database
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48"/>
 </p>
+
+- PostgreSQL (main database)
+- SQL design, pagination, search, performance basics
 
 ---
 
 ### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48"/>
 </p>
+
+- Next.js + TypeScript (modern frontend)
+- jQuery & Bootstrap (enterprise / gov-style UI)
 
 ---
 
-### 🛠 Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea"/>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide"/>
-  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
+### 🛠 Tools & Environment
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48"/>
 </p>
+
+- IntelliJ IDEA & Eclipse (Spring / MyBatis)
+- Git & GitHub for version control
+- Postman for API testing
+- DBeaver for database management
+
+---
+
+## 📌 Projects
+
+### DRMS (Distributor & Retailer Management System)
+- Spring Boot + MyBatis + JWT authentication
+- B2B backend APIs for enterprise workflow
+- Focus on clean structure and maintainability
+
+### Warehouse Master
+- Backend CRUD + security foundation
+- Base project evolved into DRMS
 
 ---
 
 ## 📫 Contact
-- 🐙 **GitHub:** https://github.com/Hen-Heang  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/hen-heang  
-- 📧 **Email:** henheang15@gmail.com  
+- 🐙 GitHub: https://github.com/Hen-Heang  
+- 💼 LinkedIn: https://www.linkedin.com/in/hen-heang  
+- 📧 Email: henheang15@gmail.com  
 
 ---
 
@@ -86,5 +106,5 @@ I care about clean architecture, readable code, and long-term maintainability.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hen-Heang&style=for-the-badge&color=grey"/>
+  <img src="https://komarev.com/ghpvc/?username=Hen-Heang&style=flat&color=blue"/>
 </p>
