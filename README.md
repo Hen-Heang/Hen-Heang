@@ -70,7 +70,7 @@ I care about clean architecture, readable code, and systems that are easy to mai
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hen-Heang&show_icons=true&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hen-Heang&layout=compact&theme=dark" />
