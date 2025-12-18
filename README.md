@@ -74,15 +74,11 @@ and building maintainable enterprise-style systems.
 ---
 
 ### 🛠 Tools & Environment
-<p align="left">
+<p>
 
-  <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/>
-
-  <!-- GitHub (white background) -->
   <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-    width="36"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36"
     style="background-color:white; padding:6; border-radius:10;"
   />
 
