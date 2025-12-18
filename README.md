@@ -11,6 +11,11 @@
   <a href="https://www.linkedin.com/in/hen-heang">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
   </a>
+ <a href="mailto:henheang15@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+
 </p>
 
 ---
@@ -68,6 +73,7 @@ and building maintainable enterprise-style systems.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="48"/>
+  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48"/>
 </p>
@@ -76,20 +82,6 @@ and building maintainable enterprise-style systems.
 - Git & GitHub for version control
 - Postman for API testing
 - DBeaver for database management
-
----
-
-## 📌 Projects
-
-### DRMS (Distributor & Retailer Management System)
-- Spring Boot + MyBatis + JWT authentication
-- B2B backend APIs for enterprise workflow
-- Focus on clean structure and maintainability
-
-### Warehouse Master
-- Backend CRUD + security foundation
-- Base project evolved into DRMS
-
 ---
 
 ## 📫 Contact
