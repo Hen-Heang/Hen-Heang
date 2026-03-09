@@ -117,7 +117,7 @@ public class HenHeang extends Developer {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hen-Heang&theme=github-dark-blue&hide_border=true" width="60%"/>
+  <img src="https://streak-stats.demolab.com/?user=Hen-Heang&theme=github-dark-blue&hide_border=true" width="60%"/>
 </div>
 
 <div align="center">
@@ -130,7 +130,7 @@ public class HenHeang extends Developer {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hen-Heang&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hen-Heang&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
