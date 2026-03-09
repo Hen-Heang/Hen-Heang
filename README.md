@@ -1,105 +1,122 @@
-<h1 align="center">Hi 👋, I'm HEN HEANG</h1>
+<div align="center">
 
-<p align="center">
-  Full-Stack Developer · Backend Focused
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+HEN+HEANG;Full-Stack+Developer;Backend+%7C+Spring+Boot+%7C+Java;Based+in+South+Korea+%F0%9F%87%B0%F0%9F%87%B7)](https://git.io/typing-svg)
 
-<p align="center">
+<p>
   <a href="https://github.com/Hen-Heang">
-    <img src="https://cdn.simpleicons.org/github/ffffff" width="34"/>
+    <img src="https://img.shields.io/badge/GitHub-Hen--Heang-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
- <a href="https://www.linkedin.com/in/hen-heang">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="34" />
+  <a href="https://www.linkedin.com/in/hen-heang">
+    <img src="https://img.shields.io/badge/LinkedIn-hen--heang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="mailto:henheang15@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="34"/>
+    <img src="https://img.shields.io/badge/Gmail-henheang15-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=Hen-Heang&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-Software Engineer based in **South Korea**, focused on **backend and full-stack development**.
+```java
+public class HenHeang extends Developer {
 
-I mainly work with **Java, Spring Boot, MyBatis, and PostgreSQL**, and build modern frontends using  
-**Next.js and TypeScript**. I enjoy understanding system flow deeply, designing clean APIs,  
-and building maintainable enterprise-style systems.
+    String location     = "South Korea 🇰🇷";
+    String focus        = "Backend & Full-Stack Development";
+    String[] languages  = {"Java", "TypeScript", "JavaScript", "SQL"};
+    String[] currently  = {"Learning Korean Tech Stack", "Building enterprise systems"};
 
----
-
-## 🧰 Languages & Tools
-
-### 🚀 Backend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48"/>
-</p>
-
-- Java, Spring Boot, Spring Security (JWT)
-- MyBatis, REST API design
-- B2B / enterprise backend systems
+    public String getGoal() {
+        return "Build clean, maintainable systems that scale 🚀";
+    }
+}
+```
 
 ---
 
-### 🗄 Database
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48"/>
-</p>
+## 🛠 Tech Stack
 
-- PostgreSQL (main database)
-- SQL design, pagination, search, performance basics
-
----
+### ☕ Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white)
 
 ### 🎨 Frontend
-<p>
-  <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48"/>
-</p>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-- Next.js + TypeScript (modern frontend)
-- jQuery & Bootstrap (enterprise / gov-style UI)
+### 🗄 Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
-
-### 🛠 Tools & Environment
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="46"/>
-  <img src="https://cdn.simpleicons.org/github/ffffff" width="46"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="46"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="46"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="46"/>
-  <img src="https://cdn.simpleicons.org/dbeaver/ffffff" width="46"/>
-</p>
-
-- IntelliJ IDEA & Eclipse (Spring / MyBatis)
-- Git & GitHub for version control
-- Postman for API testing
-- DBeaver for database management
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 
 ---
 
-## 📫 Contact
+## 📊 GitHub Stats
 
-- 🐙 GitHub: https://github.com/Hen-Heang  
-- 💼 LinkedIn: https://www.linkedin.com/in/hen-heang  
-- 📧 Email: henheang15@gmail.com  
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hen-Heang&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hen-Heang&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hen-Heang&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" width="49%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hen-Heang&theme=github_dark" width="98%"/>
+
+</div>
 
 ---
 
-## 📊 GitHub Status
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hen-Heang&show_icons=true&theme=dark" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hen-Heang&layout=compact&theme=dark" height="165"/>
-</p>
+## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hen-Heang&style=flat&color=blue"/>
-</p>
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hen-Heang&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Hen-Heang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hen-Heang&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+**"Clean code always looks like it was written by someone who cares."** — Robert C. Martin
+
+<br/>
+
+⭐ *If you find my work interesting, feel free to star my repos!*
+
+</div>
