@@ -1,16 +1,18 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+HEN+HEANG;Full-Stack+Developer;Backend+%7C+Spring+Boot+%7C+Java;Based+in+South+Korea+%F0%9F%87%B0%F0%9F%87%B7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+HEN+HEANG;Full-Stack+Developer+%7C+Backend+Focused;Java+%7C+Spring+Boot+%7C+Next.js;Based+in+South+Korea+%F0%9F%87%B0%F0%9F%87%B7)](https://git.io/typing-svg)
 
 <p>
   <a href="https://github.com/Hen-Heang">
-    <img src="https://img.shields.io/badge/GitHub-Hen--Heang-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="34"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/hen-heang">
-    <img src="https://img.shields.io/badge/LinkedIn-hen--heang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="34"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:henheang15@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-henheang15-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="34"/>
   </a>
 </p>
 
@@ -25,68 +27,101 @@
 ```java
 public class HenHeang extends Developer {
 
-    String location     = "South Korea 🇰🇷";
-    String focus        = "Backend & Full-Stack Development";
-    String[] languages  = {"Java", "TypeScript", "JavaScript", "SQL"};
-    String[] currently  = {"Learning Korean Tech Stack", "Building enterprise systems"};
+    String  location = "South Korea 🇰🇷";
+    String  role     = "Full-Stack Developer · Backend Focused";
+    String[] stack   = {"Java", "Spring Boot", "PostgreSQL", "Next.js", "TypeScript"};
+    boolean  open    = true; // open to opportunities
 
     public String getGoal() {
-        return "Build clean, maintainable systems that scale 🚀";
+        return "Build clean APIs & maintainable enterprise systems 🚀";
     }
 }
 ```
 
 ---
 
-## 🛠 Tech Stack
+## 🧰 Languages & Tools
 
-### ☕ Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white)
+### 🚀 Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" title="Java"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" title="Spring Boot"/>
+</p>
 
-### 🎨 Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+- Java · Spring Boot · Spring Security (JWT)
+- MyBatis · REST API Design
+- B2B / Enterprise Backend Systems
+
+---
 
 ### 🗄 Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" title="PostgreSQL"/>
+  &nbsp;
+</p>
 
-### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
+- PostgreSQL · SQL Design · Pagination · Performance Basics
+
+---
+
+### 🎨 Frontend
+<p>
+  <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="48" title="Next.js"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" title="TypeScript"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" title="React"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" title="JavaScript"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="48" title="jQuery"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" title="Bootstrap"/>
+</p>
+
+- Next.js + TypeScript (Modern Frontend)
+- jQuery & Bootstrap (Enterprise / Gov-style UI)
+
+---
+
+### 🛠 Tools & Environment
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="46" title="Git"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/github/ffffff" width="46" title="GitHub"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="46" title="IntelliJ IDEA"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="46" title="VS Code"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="46" title="Eclipse"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="46" title="Postman"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/dbeaver/ffffff" width="46" title="DBeaver"/>
+  &nbsp;
+</p>
+
+- IntelliJ IDEA & VS Code (Main IDEs)
+- Git & GitHub · Postman · DBeaver
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Hen-Heang&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hen-Heang&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Hen-Heang&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hen-Heang&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170"/>
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hen-Heang&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" width="49%"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hen-Heang&theme=github-dark-blue&hide_border=true" width="60%"/>
 </div>
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hen-Heang&theme=github_dark" width="98%"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hen-Heang&theme=github_dark" width="98%"/>
 </div>
 
 ---
@@ -105,7 +140,7 @@ public class HenHeang extends Developer {
 
 <div align="center">
 
-[![Hen-Heang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hen-Heang&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hen-Heang&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -113,10 +148,8 @@ public class HenHeang extends Developer {
 
 <div align="center">
 
-**"Clean code always looks like it was written by someone who cares."** — Robert C. Martin
+*"Clean code always looks like it was written by someone who cares."* — Robert C. Martin
 
-<br/>
-
-⭐ *If you find my work interesting, feel free to star my repos!*
+⭐ Feel free to explore my repos and leave a star!
 
 </div>
